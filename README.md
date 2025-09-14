@@ -16,7 +16,7 @@ Currently, I’m coding mostly in Python, but I love exploring new languages.
 - R – My deep dive into statistics 📊
 
 ### 🚀 What’s Next?
-I’m excited to see where my programming journey takes me — maybe diving deeper into software engineering or exploring new tech fields!
+I’m excited to see where my programming journey takes me - maybe diving deeper into software engineering or exploring new tech fields!
 <!--
 **eliane-kuenzler/eliane-kuenzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
